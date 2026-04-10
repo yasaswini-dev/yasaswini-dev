@@ -16,18 +16,14 @@
 - 🤖 **Robotics Simulation**: Experimenting with Gazebo and RViz to simulate robotic movements and environments.  
 - 💡 **Python Integration in ROS**: Building simple ROS packages using Python to control robot behaviors.
 
-### 🚀 Goals for 2025
-- 💡 Build expertise in Robot Operating System (ROS).
-- 🔬 Contribute to open-source projects in robotics and AI.
-
   ### ✨ Fun Facts
 - 🧠 I worked on humanoid robot NAO for my Master's thesis.  
 - 📚 A lifelong learner, currently diving into data science and AI.  
-- 🎨 I also do sketch and pain sometimes—keeping the balance in tech and art!
+- 🎨 I also do sketch and paint sometimes—keeping the balance in tech and art!
 
 ### 🔗 Connect With Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/yasaswini-koratamaddi/)
-- 📧 Email: yasaswinikoratamaddi@gmail.com
+- 📧 Email: yasaswini.koratamaddi96@gmail.com
 
 
 
